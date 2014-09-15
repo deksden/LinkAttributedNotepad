@@ -55,6 +55,7 @@
 		D9A67DC419C1D0EB00EED93A /* LinkAttributedNotepadTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LinkAttributedNotepadTests-Info.plist"; sourceTree = "<group>"; };
 		D9A67DC619C1D0EB00EED93A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D9A67DC819C1D0EB00EED93A /* linkAttTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = linkAttTests.m; sourceTree = "<group>"; };
+		D9B9A39719C72519005C3222 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +85,7 @@
 		D9A67D8E19C1D0EB00EED93A = {
 			isa = PBXGroup;
 			children = (
+				D9B9A39619C724FF005C3222 /* Docs */,
 				D9A67DA019C1D0EB00EED93A /* linkAttributedNotepad */,
 				D9A67DC219C1D0EB00EED93A /* linkAttributedNotepadTests */,
 				D9A67D9919C1D0EB00EED93A /* Frameworks */,
@@ -155,6 +157,14 @@
 				D9A67DC519C1D0EB00EED93A /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D9B9A39619C724FF005C3222 /* Docs */ = {
+			isa = PBXGroup;
+			children = (
+				D9B9A39719C72519005C3222 /* README.md */,
+			);
+			name = Docs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
