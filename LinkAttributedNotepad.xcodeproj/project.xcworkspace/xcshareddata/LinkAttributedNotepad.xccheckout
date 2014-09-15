@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A07465F-ACC1-465A-ACC9-D2B2C2EE42CA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LinkAttributedNotepad</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F9382BE5-4EF3-4514-853E-E60159F8A1BB</key>
+		<string>https://github.com/deksden/LinkAttributedNotepad.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LinkAttributedNotepad.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F9382BE5-4EF3-4514-853E-E60159F8A1BB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/deksden/LinkAttributedNotepad.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F9382BE5-4EF3-4514-853E-E60159F8A1BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F9382BE5-4EF3-4514-853E-E60159F8A1BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LinkAttributedNotepad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
