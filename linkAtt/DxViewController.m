@@ -20,14 +20,14 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    NSMutableAttributedString *attributedString = [[NSMutableAttributedString alloc] initWithString:@"This is an example by @marcelofabri_"];
-    NSRange range = [[attributedString string] rangeOfString:@"@marcelofabri_"];
+    NSMutableAttributedString *attributedString = [[NSMutableAttributedString alloc] initWithString:@"This is an example by @deksden. \nOrdinar links like http://www.raywenderlich.com/tutorials highlighted automatically and when clicked they opens in Safari"];
+    NSRange range = [[attributedString string] rangeOfString:@"@deksden"];
     [attributedString addAttribute:NSLinkAttributeName
-                             value:@"username://marcelofabri_"
+                             value:@"username://deksden"
                              range: range];
     
      
-     NSDictionary *linkAttributes = @{NSForegroundColorAttributeName: [UIColor greenColor],
+     NSDictionary *linkAttributes = @{NSForegroundColorAttributeName: [UIColor colorWithRed:0.0 green:122.0/255.0 blue:1.0 alpha:1.0], //[UIColor greenColor],
                                       NSUnderlineColorAttributeName: [UIColor lightGrayColor],
                                       NSUnderlineStyleAttributeName: @(NSUnderlinePatternSolid)};
      
